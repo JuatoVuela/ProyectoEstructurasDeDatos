@@ -1,6 +1,7 @@
 🚀 Resumen del Proyecto Realizado
 
 En este proyecto se desarrolló una solución para optimizar la gestión de atención en una sucursal bancaria, completando la implementación de la clase principal SucursalBancaria (la cual implementa la interfaz SistemaBancario).
+
 💡 Decisiones de Diseño y TDAs Implementados
 
     Selección de TDAs: Se analizaron y seleccionaron los Tipos de Datos Abstractos (TDAs) más adecuados para gestionar eficientemente las colas de espera por trámite, la relación entre puestos y trámites, y el historial de llamados de la pantalla.
